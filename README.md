@@ -22,6 +22,8 @@
     - [Usage](#usage)
     - [Build for production](#build-for-production)
     - [Run tests](#run-tests)
+    - [Live demo : deployment](#live-demo--deployment)
+    - [Video : Loom-video](#video--loom-video)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -33,7 +35,7 @@
 
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
-**[Metrics_webapp]** This project is about building a mobile web application to check a list of metrics (numeric values), it's React redux capstone project.
+**[Metrics_webapp]** This project is about building a mobile web application to check a list of metrics (numeric values) from a country, it's React redux capstone project.
 
 ## 🛠 Built With <a name="HTML, CSS, Javascript, React & redux"></a>
 
@@ -60,6 +62,7 @@
 - [x] Used `axios` to fetch data from the API.
 - [x] Used store, actions and reducers in React.
 - [x] Used React hooks.
+- [x] Search by country Name.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +118,10 @@ npm run build
 
 To run tests, run the following command:
 
+```sh
+  npm run test
+```
+
 To check for html errors run:
 
 ```sh
@@ -132,6 +139,11 @@ To check for js errors run:
 ```sh
   npx eslint .
 ```
+
+### Live demo : [deployment](https://github.com/Yacoubou-seidou)
+
+
+### Video : [Loom-video](https://www.loom.com/share/38c22910c9c34d5d82062fc7a5006813)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +191,7 @@ If you like this feel free to follow me on github and give this project a star.
 
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
-- Hat tip to anyone whose code was used.
+- Thanks and credit to Nelson Sakwa the author of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
