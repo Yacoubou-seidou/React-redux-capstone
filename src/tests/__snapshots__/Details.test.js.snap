@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> Should renders correctly 1`] = `
+Array [
+  <div
+    className="navbar"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="Back Icon"
+        className="back-img"
+        src="back.png"
+      />
+    </a>
+    <h1>
+      Countries
+    </h1>
+    <div
+      className="right-icon"
+    >
+      <img
+        alt="Microphone icon"
+        src="microphone.png"
+      />
+      <img
+        alt="Setting icon"
+        className="setting-img"
+        src="setting.png"
+      />
+    </div>
+  </div>,
+  <div
+    className="banner"
+  >
+    <img
+      alt="World Map"
+      className="world-img"
+      src="background.png"
+    />
+    <h1>
+      World Statistics
+    </h1>
+  </div>,
+  <input
+    className="search-input"
+    onChange={[Function]}
+    placeholder="🔍 Search Country Here"
+    type="text"
+    value=""
+  />,
+  <div
+    className="status-bar"
+  >
+    <h2
+      className="country-status"
+    >
+      Stats by Country
+    </h2>
+  </div>,
+  <div
+    className="container"
+  >
+    <a
+      className="small-container"
+      href="/countries/Test Country 1"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 1"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 1
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+    <a
+      className="small-container"
+      href="/countries/Test Country 2"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 2"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 2
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+    <a
+      className="small-container"
+      href="/countries/Test Country 3"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 3"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 3
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+  </div>,
+]
+`;
+
+exports[`<Homepage /> Should renders correctly 1`] = `
+Array [
+  <div
+    className="navbar"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="Back Icon"
+        className="back-img"
+        src="back.png"
+      />
+    </a>
+    <h1>
+      Countries
+    </h1>
+    <div
+      className="right-icon"
+    >
+      <img
+        alt="Microphone icon"
+        src="microphone.png"
+      />
+      <img
+        alt="Setting icon"
+        className="setting-img"
+        src="setting.png"
+      />
+    </div>
+  </div>,
+  <div
+    className="banner"
+  >
+    <img
+      alt="World Map"
+      className="world-img"
+      src="banar-img.jpg"
+    />
+  </div>,
+  <input
+    className="search-input"
+    onChange={[Function]}
+    placeholder="🔍 Search Country Here"
+    type="text"
+    value=""
+  />,
+  <div
+    className="status-bar"
+  >
+    <h2
+      className="country-status"
+    >
+      Stats by Country
+    </h2>
+  </div>,
+  <div
+    className="container"
+  >
+    <a
+      className="small-container"
+      href="/countries/Test Country 1"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 1"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 1
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+    <a
+      className="small-container"
+      href="/countries/Test Country 2"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 2"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 2
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+    <a
+      className="small-container"
+      href="/countries/Test Country 3"
+      onClick={[Function]}
+    >
+      <img
+        alt="Test Country 3"
+        className="country-map"
+        src="background.png"
+      />
+      <div
+        className="country-info"
+      >
+        <h2
+          className="country-name"
+        >
+          Test Country 3
+        </h2>
+        <h2
+          className="country-population"
+        />
+      </div>
+    </a>
+  </div>,
+]
+`;
