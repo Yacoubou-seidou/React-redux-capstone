@@ -140,7 +140,7 @@ To check for js errors run:
   npx eslint .
 ```
 
-### Live demo : [deployment](https://github.com/Yacoubou-seidou)
+### Live demo : [deployment](https://countrydata-ogxs.onrender.com/)
 
 
 ### Video : [Loom-video](https://www.loom.com/share/38c22910c9c34d5d82062fc7a5006813)
