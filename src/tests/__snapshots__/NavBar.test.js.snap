@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar Should renders correctly 1`] = `
+<div
+  className="navbar"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <img
+      alt="Back Icon"
+      className="back-img"
+      src="back.png"
+    />
+  </a>
+  <h1>
+    Countries
+  </h1>
+  <div
+    className="right-icon"
+  >
+    <img
+      alt="Microphone icon"
+      src="microphone.png"
+    />
+    <img
+      alt="Setting icon"
+      className="setting-img"
+      src="setting.png"
+    />
+  </div>
+</div>
+`;
+
+exports[`NavBar renders correctly 1`] = `
+<div
+  className="navbar"
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <img
+      alt="Back Icon"
+      className="back-img"
+      src="back.png"
+    />
+  </a>
+  <h1>
+    Countries
+  </h1>
+  <div
+    className="right-icon"
+  >
+    <img
+      alt="Microphone icon"
+      src="microphone.png"
+    />
+    <img
+      alt="Setting icon"
+      className="setting-img"
+      src="setting.png"
+    />
+  </div>
+</div>
+`;
