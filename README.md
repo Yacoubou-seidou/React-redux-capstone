@@ -35,7 +35,7 @@
 
 # 📖 [Metrics webapp] <a name="about-project"></a>
 
-**[Metrics_webapp]** This project is about building a mobile web application to check a list of metrics (numeric values) from a country, it's React redux capstone project.
+**[Metrics_webapp]** The Web Metric Mobile Application is an innovative and user-friendly mobile application designed to provide users with a comprehensive list of metrics for different countries around the world. It aims to offer a convenient and efficient way for users to access and explore various statistical data related to countries, including population, area, capital, continent, flag, and map. It's the React redux capstone project at Microverse.
 
 ## 🛠 Built With <a name="HTML, CSS, Javascript, React & redux"></a>
 
@@ -143,7 +143,7 @@ To check for js errors run:
 ### Live demo : [deployment](https://countrydata-ogxs.onrender.com/)
 
 
-### Video : [Loom-video](https://www.loom.com/share/38c22910c9c34d5d82062fc7a5006813)
+### Video : [Loom-video](https://www.loom.com/share/1ce57740372b49a49752ba3148f89dc2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
