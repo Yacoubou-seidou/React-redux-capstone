@@ -29,7 +29,7 @@ const Home = () => {
       <div className="container">
         {filteredData.map((item) => (
           <Link to={`/countries/${item.name}`} key={item.name} className="small-container">
-            <img src={worldmap} alt={item.name} className="country-map" />
+            <img src={item.flag} alt={item.name} className="country-map" />
             <div className="country-info">
               <h2 className="country-name">{item.name}</h2>
               <h2 className="country-population">{item.population}</h2>
